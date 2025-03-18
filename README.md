@@ -2,3 +2,4 @@
  Primeiro repositorio versionado do curso de Git e GitHub, repositorio criado durante uma aula gravada
  
 oi, meu nome é jessica 
+marcos gay 
